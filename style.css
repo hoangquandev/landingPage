@@ -110,7 +110,7 @@ body {
 
 .title p {
     width: 1000px;
-    font-size: 10px;
+    font-size: 12px;
     text-transform: uppercase;
     font-weight: 500;
     position: relative;
@@ -121,7 +121,7 @@ body {
 .tag {
     position: fixed;
     top: 166px;
-    left: 70%;
+    left: 71%;
     padding: 10px 30px;
     font-weight: 500;
     color: grey;
@@ -139,7 +139,7 @@ body {
 button {
     font-weight: 900;
     position: relative;
-    left: 1100px;
+    left: 1150px;
     bottom: -290px;
     background: #eda7a7;
     color: #fff;
